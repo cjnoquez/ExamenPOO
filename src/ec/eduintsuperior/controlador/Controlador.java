@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Santy
+ * @author Jhonatan
  */
 public class Controlador {
 
