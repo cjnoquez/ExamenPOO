@@ -7,7 +7,7 @@ package ec.edu.intsuperior.modelo;
 
 /**
  *
- * @author Erik
+ * @author Erika
  */
 public class Persona {
     private String ci;
