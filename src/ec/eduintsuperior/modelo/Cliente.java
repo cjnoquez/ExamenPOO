@@ -7,7 +7,7 @@ package ec.edu.intsuperior.modelo;
 
 /**
  *
- * @author Jhonatan
+ * @author Erik
  */
 public class Cliente extends Persona{
     String idCliente;
